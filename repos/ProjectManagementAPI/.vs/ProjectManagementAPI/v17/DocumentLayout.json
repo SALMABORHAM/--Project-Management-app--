@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\4s\\desktop\\project management app\\repos\\projectmanagementapi\\projectmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\4s\\desktop\\project management app\\repos\\projectmanagementapi\\projectmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\4s\\desktop\\project management app\\repos\\projectmanagementapi\\projectmanagementapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\4s\\desktop\\project management app\\repos\\projectmanagementapi\\projectmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|c:\\users\\4s\\desktop\\project management app\\repos\\projectmanagementapi\\projectmanagementapi\\models\\task .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6877B117-AB2E-4943-95CE-68085F95B515}|ProjectManagementAPI\\ProjectManagementAPI.csproj|solutionrelative:projectmanagementapi\\models\\task .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 251,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwBwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T23:10:21.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAhwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T13:25:10.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Program.cs*",
+              "RelativeToolTip": "ProjectManagementAPI\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T15:46:03.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Models\\Project.cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Models\\Project.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIAxwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:59:14.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Task .cs",
+              "DocumentMoniker": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Models\\Task .cs",
+              "RelativeDocumentMoniker": "ProjectManagementAPI\\Models\\Task .cs",
+              "ToolTip": "C:\\Users\\4S\\Desktop\\Project Management App\\repos\\ProjectManagementAPI\\ProjectManagementAPI\\Models\\Task .cs",
+              "RelativeToolTip": "ProjectManagementAPI\\Models\\Task .cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T16:41:48.312Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
